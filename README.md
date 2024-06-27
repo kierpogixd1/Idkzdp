@@ -1,4 +1,2 @@
 # ha
-```lua
-https://raw.githubusercontent.com/slf0Dev/Ocerium_Project/main/Library.lua
-```
+```https://raw.githubusercontent.com/slf0Dev/Ocerium_Project/main/Library.lua```
